@@ -27,6 +27,6 @@ Do not forgert to open a new terminal or to source.
 1. create (if it not already exist after the installation of iCommands) the folder .irods in your home directory  
 2. copy the here (in this repository) provided irods_environment.json file in the .irods directory and fill in you username.  
 3. Type iinit you start the connection to the YODA system.  
-4. You will be asked for your password (MS IKMB account).  
+4. You will be asked for your password (CAU RZ E-mail account).  
 5. Test the connection by typing ils.  
 6. If this works you can use all the iCommands commands. They are described here: https://docs.irods.org/4.2.8/icommands/user/
