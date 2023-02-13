@@ -2,7 +2,7 @@
 Here you can find all information you need to use the mitarget DM suite YODA.
 
 # The YODA portal
-http://yoda-mitarget.medfdm.nui-kiel.de  
+http://yoda-mitarget.medfdm.uni-kiel.de  
 The YODA Dm suite can be reached from the CAU Kiel network (from outside via VPN) and from the UKSH clinic network.
 You can log in with your CAU RZ E-mail account to the portal.   
 Under data you can find the data of the groups you belong to. You can create folders, upload/download files and remove/rename files, if you have the corresponding user rights for the group.  
