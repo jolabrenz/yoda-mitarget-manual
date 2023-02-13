@@ -9,6 +9,11 @@ Under data you can find the data of the groups you belong to. You can create fol
 If you have group manager rights for a group, you can mange the users and their user rights via the Group Manager module (add user, change user rights). Only existing users can login to the YODA portal.  
 Additional description can be found in the manuals in PDF format.
 
+# The YODA drive
+The YODa system can be reached via WebDAV using the adress: 
+https://webdav-mitarget.medfdm.uni-kiel.de
+The YODa system can be used as network drive in this way. There are pdf files describing how to connect for different Operating Systems.
+
 
 # Installation of iCommands
 The current version of the iRODS backend of the YODA system is 4.2.7.  
