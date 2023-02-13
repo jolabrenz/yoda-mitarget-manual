@@ -11,7 +11,8 @@ Additional description can be found in the manuals in PDF format.
 
 # The YODA drive
 The YODa system can be reached via WebDAV using the adress: 
-https://webdav-mitarget.medfdm.uni-kiel.de
+https://webdav-mitarget.medfdm.uni-kiel.de 
+
 The YODA system can be used as network drive in this way. 
 There are pdf files describing how to connect for different Operating Systems.
 
