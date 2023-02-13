@@ -1,0 +1,18 @@
+{
+    "irods_client_server_negotiation": "request_server_negotiation",
+    "irods_client_server_policy": "CS_NEG_REQUIRE",
+    "irods_cwd": "/medfdmZone/home/",
+    "irods_default_hash_scheme": "MD5",
+    "irods_default_resource": "irodsRescECS",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_home": "/medfdmZone/home",
+    "irods_host": "yoda-icat.medfdm.uni-kiel.de",
+    "irods_match_hash_policy": "compatible",
+    "irods_port": 1247,
+    "irods_authentication_scheme": "PAM",
+    "irods_user_name": "!!!! your username !!!!",
+    "irods_zone_name": "medfdmZone"
+}
